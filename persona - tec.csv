@@ -1,0 +1,15 @@
+NOME;SEXO;ANO;TELEFONE;EMPRESA;NOME EMPRESA;AREA EMPRESA;CPF/CNPJ;SETOR;SERVICO;FONTE;VALOR;LOCAL;CAPITAL SOCIAL;QTD;TOTAL
+Caique;Masculino;2022;"27 99619-2626";1;BButton Investimentos e Participacoes LTDA;Capital de Risco;"39.795.027/0001-53";Tecnologia;Website Institucional;Indicacao;2200;ES;100000;1;2200
+None;Masculino;2022;NULL;2;CJA/UFES;Consultoria;"39.795.455/0001-86";Tecnologia;Website Institucional;Ativa;1500;ES;0;1;1500
+Ademilson;Masculino;2022;"27 99225-7781";1;CORECON-ES;Associacao;"27.286.806/0001-44";Tecnologia;Manutencao do Website;Passiva;775;ES;0;1;775
+Hellen;Feminino;2022;"27 99704-5600";1;FUNDAES;Associacao;"05.237.947/0001-34";Tecnologia;Website Insitucional;Passiva;1600;ES;0;1;1600
+Isabele Capistrano;Feminino;2022;"27 99991-3111";1;Residence Construcoes e Incorporacoes LTDA;Construcao;"04.654.187/0001-06";Tecnologia;Website Institucional;Passiva;2400;ES;80000;1;2400
+Maycon Salles;Masculino;2022;"27 99925-4095";1;MS Servicos de Engenharia LTDA;Engenharia;"40.685.859/0001-04";Tecnologia;Website One-Page;Passiva;1395;ES;10000;1;1395
+Eliene Perim;Feminino;2022;NULL;1;Osvaldo Perim Supermercados LTDA;Varejo;"27.735.448/0001-00";Tecnologia;Website Institucional+Sistema Web;Ativa;"2500+2500";ES;29500000;2;5000
+Rafael Sartim;Masculino;2022;NULL;0;Pessoa Fisica;None;"054.909.507-14";Tecnologia;Website Institucional;Outro;2500;ES;0;1;2500
+Rodrigo Afonso Vicente;Masculino;2022;"41 99796-2744";1;Povo do Bem;ONG;46.413.824/0001-94;Tecnologia;Website Institucional+Prototipo de App;Facebook;"2700+2300";PR;210000;2;5000
+Ana Bia;Feminino;2022;NULL;1;Juniores;Orgao Sem Fins Lucrativos;"09.872.723/0001-55";Tecnologia;Sistema de Selecao;Passiva;4000;ES;0;1;4000
+Tiago Rodrigues Brito;Masculino;2022;None;1;Vidrocar Vidros e Acessorios para Veiculos LTDA;Comercio;"05.956.375/0001-43";Tecnologia;Prototipo de Sistema+Sistema Web;Passiva;1000+8500;BA;550000;2;9500
+Evandro;Masculino;2022;"28 99985-0991";1;Not found;Administrativo;"158.570.728-75";Tecnologia;;;;;Not Found;1
+Bernardo Almeida Barreto;Masculino;2023;NULL;0;NULL;NULL;"142.762.277-98";Website Institucional+Landing Pages;A SABER;A SABER;1500+1000;ES;0;2;3000
+
