@@ -1,13 +1,13 @@
 id;name_client;gender;close_year;phone;has_company;name_company;company_field;cpf_cnpj;sector;services;source;price;origin_place;social_capital;n_of_services;total_price
-1;Caique;Masculino;2022;27 99619-2626;1;BButton Investimentos e Participacoes LTDA;Capital de Risco;39.795.027/0001-53;Tecnologia;Website Institucional;Indicacao;2200;ES;100000;1;2200
-2;None;Masculino;2022;NULL;2;CJA/UFES;Consultoria;39.795.455/0001-86;Tecnologia;Website Institucional;Ativa;1500;ES;0;1;1500
-3;Ademilson;Masculino;2022;27 99225-7781;1;CORECON-ES;Associacao;27.286.806/0001-44;Tecnologia;Manutencao do Website;Passiva;775;ES;0;1;775
-4;Hellen;Feminino;2022;27 99704-5600;1;FUNDAES;Associacao;05.237.947/0001-34;Tecnologia;Website Insitucional;Passiva;1600;ES;0;1;1600
-5;Isabele Capistrano;Feminino;2022;27 99991-3111;1;Residence Construcoes e Incorporacoes LTDA;Construcao;04.654.187/0001-06;Tecnologia;Website Institucional;Passiva;2400;ES;80000;1;2400
-6;Maycon Salles;Masculino;2022;27 99925-4095;1;MS Servicos de Engenharia LTDA;Engenharia;40.685.859/0001-04;Tecnologia;Website One-Page;Passiva;1395;ES;10000;1;1395
-7;Eliene Perim;Feminino;2022;NULL;1;Osvaldo Perim Supermercados LTDA;Varejo;27.735.448/0001-00;Tecnologia;Website Institucional+Sistema Web;Ativa;2500+2500;ES;29500000;2;5000
-8;Rafael Sartim;Masculino;2022;NULL;0;NULL;NULL;054.909.507-14;Tecnologia;Website Institucional;Outro;2500;ES;0;1;2500
-9;Rodrigo Afonso Vicente;Masculino;2022;41 99796-2744;1;Povo do Bem;ONG;46.413.824/0001-94;Tecnologia;Website Institucional+Prototipo de App;Facebook;2700+2300;PR;210000;2;5000
-10;Ana Bia;Feminino;2022;NULL;1;Juniores;Orgao Sem Fins Lucrativos;09.872.723/0001-55;Tecnologia;Sistema de Selecao;Passiva;4000;ES;0;1;4000
-11;Tiago Rodrigues Brito;Masculino;2022;None;1;Vidrocar Vidros e Acessorios para Veiculos LTDA;Comercio;05.956.375/0001-43;Tecnologia;Prototipo de Sistema+Sistema Web;Passiva;1000+8500;BA;550000;2;9500
-12;Bernardo Almeida Barreto;Masculino;2023;NULL;0;NULL;NULL;142.762.277-98;Tecnologia;Website Institucional+Landing Pages;Passiva;1500+1000;ES;0;2;3000
+1;Caique;Masculino;2022;"27996192626";1;BButton_Investimentos_e_Participacoes_LTDA;Capital_de_Risco;“39795027000153”;Tecnologia;Website_Institucional;Indicacao;2200;ES;100000;1;2200
+2;None;Masculino;2022;NULL;2;CJA/UFES;Consultoria;“39.795.455/0001-86”;Tecnologia;Website Institucional;Ativa;1500;ES;0;1;1500
+3;Ademilson;Masculino;2022;“27 99225-7781”;1;CORECON-ES;Associacao;“27.286.806/0001-44”;Tecnologia;Manutencao do Website;Passiva;775;ES;0;1;775
+4;Hellen;Feminino;2022;“27 99704-5600”;1;FUNDAES;Associacao;“05.237.947/0001-34”;Tecnologia;Website Insitucional;Passiva;1600;ES;0;1;1600
+5;Isabele Capistrano;Feminino;2022;“27 99991-3111”;1;Residence Construcoes e Incorporacoes LTDA;Construcao;“04.654.187/0001-06”;Tecnologia;Website Institucional;Passiva;2400;ES;80000;1;2400
+6;Maycon Salles;Masculino;2022;“27 99925-4095”;1;MS Servicos de Engenharia LTDA;Engenharia;“40.685.859/0001-04”;Tecnologia;Website One-Page;Passiva;1395;ES;10000;1;1395
+7;Eliene Perim;Feminino;2022;NULL;1;Osvaldo Perim Supermercados LTDA;Varejo;“27.735.448/0001-00”;Tecnologia;Website Institucional+Sistema Web;Ativa;2500+2500;ES;29500000;2;5000
+8;Rafael Sartim;Masculino;2022;NULL;0;NULL;NULL;“054.909.507-14”;Tecnologia;Website Institucional;Outro;2500;ES;0;1;2500
+9;Rodrigo Afonso Vicente;Masculino;2022;“41 99796-2744”;1;Povo do Bem;ONG;“46.413.824/0001-94”;Tecnologia;Website Institucional+Prototipo de App;Facebook;2700+2300;PR;210000;2;5000
+10;Ana Bia;Feminino;2022;NULL;1;Juniores;Orgao Sem Fins Lucrativos;“09.872.723/0001-55”;Tecnologia;Sistema de Selecao;Passiva;4000;ES;0;1;4000
+11;Tiago Rodrigues Brito;Masculino;2022;NULL;1;Vidrocar Vidros e Acessorios para Veiculos LTDA;Comercio;“05.956.375/0001-43”;Tecnologia;Prototipo de Sistema+Sistema Web;Passiva;1000+8500;BA;550000;2;9500
+12;Bernardo Almeida Barreto;Masculino;2023;NULL;0;NULL;NULL;“142.762.277-98”;Tecnologia;Website Institucional+Landing Pages;Passiva;1500+1000;ES;0;2;3000
