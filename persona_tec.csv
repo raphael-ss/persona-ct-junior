@@ -10,4 +10,4 @@ id;name_client;gender;close_year;phone;has_company;name_company;company_field;cp
 9;Rodrigo Afonso Vicente;Masculino;2022;“41 99796-2744”;1;Povo do Bem;ONG;“46.413.824/0001-94”;Tecnologia;Website+Prototipo;Facebook;2700+2300;PR;210000;2;5000
 10;Ana Bia;Feminino;2022;NULL;1;Juniores;Orgao Sem Fins Lucrativos;“09.872.723/0001-55”;Tecnologia;Sistema;Passiva;4000;ES;0;1;4000
 11;Tiago Rodrigues Brito;Masculino;2022;NULL;1;Vidrocar Vidros e Acessorios para Veiculos LTDA;Comercio;“05.956.375/0001-43”;Tecnologia;Prototipo+Sistema;Passiva;1000+8500;BA;550000;2;9500
-12;Bernardo Almeida Barreto;Masculino;2023;NULL;0;NULL;NULL;“142.762.277-98”;Tecnologia;Website+Landing Page+Landing Page+Landing Page+Landing Page+Landing Page;Passiva;1500+1000;ES;0;6;3000
+12;Bernardo Almeida Barreto;Masculino;2023;NULL;0;NULL;NULL;“142.762.277-98”;Tecnologia;Website+Landing Page+Landing Page+Landing Page+Landing Page+Landing Page;Passiva;1500+200+200+200+200+200;ES;0;6;3000
