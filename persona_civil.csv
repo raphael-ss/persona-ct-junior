@@ -1,13 +1,13 @@
 id;name_client;gender;close_year;phone;has_company;name_company;company_field;cpf_cnpj;sector;services;source;price;origin_place;social_capital;n_of_services;total_price
 1;Ayssa;Feminino;2022;"27 99609-2160";0;None;None;"181.585.777-33";Civil;Arquitetonico;Indicacao;2300;ES;0;1;2300
-2;Octavio de Carvalho S. Junior;Masculino;2022;"27 99981-8923";0;None;None;"742.865.797-00";Civil;Arquitetonico+Eletrico+Hidrossanitario+Captacao+Incendio;Ativa;4000+1500+2000+500+600;ES;0;5;8600
+2;Octavio de Carvalho S. Junior;Masculino;2022;"27 99981-8923";0;None;None;"742.865.797-00";Civil;Arquitetonico+Hidrossanitario+Eletrico+Captacao+Incendio;Ativa;4000+1500+2000+500+600;ES;0;5;8600
 3;Tatiana de Souza Franca;Feminino;2022;None;0;None;None;"732.039.987-34";Civil;Arquitetonico+Hidrossanitario+Eletrico+Incendio+Captacao;Ativa;4700+1800+1400+600+500;ES;0;5;9000
 4;Lucimar Hintz;Masculino;2022;None;1;J. J Filhos Industria de Cosmeticos LTDA;Industria;"08.223.715/0001-15";Civil;Arquitetonico+Hidrossanitario;Ativa;2300+1700;ES;1550000;2;4000
 5;Junia Perim Ribeiro Zanetti;Feminino;2022;None;0;None;None;"053.095.707-80";Civil;Arquitetonico;Passiva;1500;ES;0;1;1500
 6;JR;Masculino;2022;None;2;ENPRO Jr;Consultoria;"26.782.616/0001-55";Civil;Arquitetonico;Passiva;1000;ES;0;1;1000
 7;Derminda Maria Cyoriano;Feminino;2022;"27 99974-6186";0;None;None;"420.599.417-68";Civil;Arquitetonico;Facebook;2000;ES;0;1;2000
-8;Moises Silva do Nascimento;Masculino;2022;"27 98162-2279";0;None;None;"440.836.297-20";Civil;Eletrico+Hidrossanitario;Passiva;1700+1800;ES;0;2;3500
+8;Moises Silva do Nascimento;Masculino;2022;"27 98162-2279";0;None;None;"440.836.297-20";Civil;Hidrossanitario+Eletrico;Passiva;1700+1800;ES;0;2;3500
 9;Tiago Mendonca do Nascimento;Masculino;2022;None;1;Recicle Digital Vegetal;Reciclagem;"43.056.999/0001-01";Civil;Regularizacao;Outro;1660;ES;2000;1;1660
 10;Saulo de Matos Tinoco;Masculino;2022;None;1;Horti Frutix Jardim Camburi LTDA/Shopping das Frutas;Varejo;"11.857.211/0001-61";Civil;Regularizacao;Outro;2000;ES;20000;1;2000
-11;Henrique;Masculino;2023;"27 98824-2109";0;None;None;"090.190.457-09";Civil;Arquitetonico+Eletrico+Hidrossanitario+Captacao+Estrutural+Laudo;Indicacao;5190+2885+3330+2095+4000+2000;ES;0;6;19350
-12;Isabella Feitosa;Feminino;2023;"27 99695-4411";0;None;None;"082.348.947-73";Civil;Arquitetonico+Eletrico+Hidrossanitario+Captacao;Website;1900+400+500+200;ES;0;4;3000
+11;Henrique;Masculino;2023;"27 98824-2109";0;None;None;"090.190.457-09";Civil;Arquitetonico+Hidrossanitario+Eletrico+Captacao+Estrutural+Laudo;Indicacao;5190+2885+3330+2095+4000+2000;ES;0;6;19350
+12;Isabella Feitosa;Feminino;2023;"27 99695-4411";0;None;None;"082.348.947-73";Civil;Arquitetonico+Hidrossanitario+Eletrico+Captacao;Website;1900+400+500+200;ES;0;4;3000
