@@ -1,27 +1,13 @@
-NOME;SEXO;ANO;TELEFONE;EMPRESA;NOME DA EMPRESA;AREA DA EMPRESA;CPF/CNPJ;SETOR;PROJETO;FONTE;VALOR;LOCAL;CAPITAL SOCIAL;QTD;
-Ayssa;Feminino;2022;"27 99609-2160";0;None;None;"181.585.777-33";Civil;Arquitetonico;Indicacao;2300;ES;0;1
-Octavio de Carvalho S. Junior;Masculino;2022;"27 99981-8923";0;None;None;"742.865.797-00";Civil;Arquitetonico;Ativa;4000;ES;0;1	
-Octavio de Carvalho S. Junior;Masculino;2022;"27 99981-8923";0;None;None;"742.865.797-00";Civil;Eletrico;Ativa;1500;ES;0;1	
-Octavio de Carvalho S. Junior;Masculino;2022;"27 99981-8923";0;None;None;"742.865.797-00";Civil;Hidrossanitario;Ativa;2000;ES;0;1	
-Octavio de Carvalho S. Junior;Masculino;2022;"27 99981-8923";0;None;None;"742.865.797-00";Civil;Captacao;Ativa;500;ES;0;1	
-Octavio de Carvalho S. Junior;Masculino;2022;"27 99981-8923";0;None;None;"742.865.797-00";Civil;Incendio;Ativa;600;ES;0;1
-Octavio de Carvalho S. Junior;Masculino;2022;"27 99981-8923";0;None;None;"742.865.797-00";Civil;AEHCI;Ativa;8600;ES;0;5
-Tatiana de Souza Franca;Feminino;2022;None;0;None;None;"732.039.987-34";Civil;Arquitetonico;Ativa;4700;ES;0;1
-Tatiana de Souza Franca;Feminino;2022;None;0;None;None;"732.039.987-34";Civil;Hidrossanitario;Ativa;1800;ES;0;1
-Tatiana de Souza Franca;Feminino;2022;None;0;None;None;"732.039.987-34";Civil;Eletrico;Ativa;1400;ES;0;1
-Tatiana de Souza Franca;Feminino;2022;None;0;None;None;"732.039.987-34";Civil;Incendio;Ativa;600;ES;0;1
-Tatiana de Souza Franca;Feminino;2022;None;0;None;None;"732.039.987-34";Civil;Captacao;Ativa;500;ES;0;1
-Tatiana de Souza Franca;Feminino;2022;None;0;None;None;"732.039.987-34";Civil;AEHCI;Ativa;9000;ES;0;5
-Lucimar Hintz;Masculino;2022;None;1;J. J Filhos Industria de Cosmeticos LTDA;Industria;"08.223.715/0001-15";Civil;Arquitetonico;Ativa;2300;ES;1.550.000;1	
-Lucimar Hintz;Masculino;2022;None;1;J. J Filhos Industria de Cosmeticos LTDA;Industria;"08.223.715/0001-15";Civil;Hidrossanitario;Ativa;1700;ES;1.550.000;1
-Lucimar Hintz;Masculino;2022;None;1;J. J Filhos Industria de Cosmeticos LTDA;Industria;"08.223.715/0001-15";Civil;AH;Ativa;4000;ES;1.550.000;2
-Junia Perim Ribeiro Zanetti;Feminino;2022;None;0;None;None;"053.095.707-80";Civil;Arquitetonico;Passiva;1500;ES;0;1	
-JR;None;2022;None;2;ENPRO Jr;Consultoria;"26.782.616/0001-55";Civil;Arquitetonico;Prospeccao Passiva;1000;ES;0;1	
-Derminda Maria Cyoriano;Feminino;2022;"27 99974-6186";0;None;None;"420.599.417-68";Civil;Arquitetonico;Facebook Ads;2000;ES;0;1	
-Moises Silva do Nascimento;Masculino;2022;"27 98162-2279";0;None;None;"440.836.297-20";Civil;Eletrico;Passiva;1700;ES;0;1
-Moises Silva do Nascimento;Masculino;2022;"27 98162-2279";0;None;None;"440.836.297-20";Civil;Hidrossanitario;Passiva;1800;ES;0;1
-Moises Silva do Nascimento;Masculino;2022;"27 98162-2279";0;None;None;"440.836.297-20";Civil;EH;Prospeccao Passiva;3500;ES;0;2
-Tiago Mendonca do Nascimento;Masculino;2022;None;1;Recicle Digital Vegetal;Reciclagem;"43.056.999/0001-01";Civil;Regularizacao;None;1660;ES;2000;1	
-Saulo de Matos Tinoco;Masculino;2022;None;1;Horti Frutix Jardim Camburi LTDA/Shopping das Frutas;Varejo;"11.857.211/0001-61";Civil;Regularizacao;None;2000;ES;20000;1	
-Henrique;Masculino;2023;"27 98824-2109";0;None;None;A SABER;Civil;A SABER;Indicacao;19350;ES;0;A SABER
-Isabella Feitosa;Feminino;"27 99695-4411";0;None;None;A SABER;Civil;A SABER;Site;3000;ES;0;A SABER
+id;name_client;gender;close_year;phone;has_company;name_company;company_field;cpf_cnpj;sector;services;source;price;origin_place;social_capital;n_of_services;total_price
+1;Ayssa;Feminino;2022;"27 99609-2160";0;None;None;"181.585.777-33";Civil;Arquitetonico;Indicacao;2300;ES;0;1;2300
+Octavio de Carvalho S. Junior;Masculino;2022;"27 99981-8923";0;None;None;"742.865.797-00";Civil;Arquitetonico+Eletrico+Hidrossanitario+Captacao+Incendio;Ativa;4000+1500+2000+500+600;ES;0;5;8600	
+Tatiana de Souza Franca;Feminino;2022;None;0;None;None;"732.039.987-34";Civil;Arquitetonico+Hidrossanitario+Eletrico+Incendio+Captacao;Ativa;4700+1800+1400+600+500;ES;0;5;9000
+Lucimar Hintz;Masculino;2022;None;1;J. J Filhos Industria de Cosmeticos LTDA;Industria;"08.223.715/0001-15";Civil;Arquitetonico+Hidrossanitario;Ativa;2300+1700;ES;1.550.000;2;4000
+Junia Perim Ribeiro Zanetti;Feminino;2022;None;0;None;None;"053.095.707-80";Civil;Arquitetonico;Passiva;1500;ES;0;1;1500
+JR;None;2022;None;2;ENPRO Jr;Consultoria;"26.782.616/0001-55";Civil;Arquitetonico;Prospeccao Passiva;1000;ES;0;1;1000
+Derminda Maria Cyoriano;Feminino;2022;"27 99974-6186";0;None;None;"420.599.417-68";Civil;Arquitetonico;Facebook Ads;2000;ES;0;1;2000
+Moises Silva do Nascimento;Masculino;2022;"27 98162-2279";0;None;None;"440.836.297-20";Civil;Eletrico+Hidrossanitario;Passiva;1700+1800;ES;0;2;3500
+Tiago Mendonca do Nascimento;Masculino;2022;None;1;Recicle Digital Vegetal;Reciclagem;"43.056.999/0001-01";Civil;Regularizacao;Unknown;1660;ES;2000;1	
+Saulo de Matos Tinoco;Masculino;2022;None;1;Horti Frutix Jardim Camburi LTDA/Shopping das Frutas;Varejo;"11.857.211/0001-61";Civil;Regularizacao;Unknown;2000;ES;20000;1;2000	
+Henrique;Masculino;2023;"27 98824-2109";0;None;None;"090.190.457-09";Civil;Arquitetonico+Eletrico+Hidrossanitario+Captacao+Estrutural+Laudo;Indicacao;5190+2885+3330+2095+4000+2000;ES;0;6;19350
+Isabella Feitosa;Feminino;"27 99695-4411";0;None;None;"082.348.947-73";Civil;Arquitetonico+Eletrico+Hidrossanitario+Captacao;Website;1900+400+500+200;ES;0;4;3000
